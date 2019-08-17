@@ -71,13 +71,13 @@ figcaption {
   color: red;
 }
 
-/*==================== MEdia =======================*/
+/* media */
 
  img,  video, audio{
   max-width: 100%;
 }
 
- /*==================== Layout =======================*/
+ /* layout */
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
